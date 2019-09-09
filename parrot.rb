@@ -6,4 +6,4 @@ def parrot
 
 end
 
-parrot
+puts parrot
